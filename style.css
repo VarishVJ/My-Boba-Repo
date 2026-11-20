@@ -1,0 +1,15 @@
+img {
+    width: 800px
+}
+body {
+    text-align: center;
+    font-family: 'Syncopate', sans-serif;
+    background: black;
+    color: whitesmoke;
+}
+h1 {
+    font-size: 96px;
+}
+p {
+    font-size: 36px;
+}
